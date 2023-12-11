@@ -1,0 +1,14 @@
+/home/pedro/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging
+/home/pedro/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.deps.json
+/home/pedro/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.runtimeconfig.json
+/home/pedro/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.dll
+/home/pedro/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.pdb
+/home/pedro/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.AssemblyInfoInputs.cache
+/home/pedro/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.AssemblyInfo.cs
+/home/pedro/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.csproj.CoreCompileInputs.cache
+/home/pedro/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.dll
+/home/pedro/DotNetDebugging/obj/Debug/net8.0/refint/DotNetDebugging.dll
+/home/pedro/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.pdb
+/home/pedro/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.genruntimeconfig.cache
+/home/pedro/DotNetDebugging/obj/Debug/net8.0/ref/DotNetDebugging.dll
